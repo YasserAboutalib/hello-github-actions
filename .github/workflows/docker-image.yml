@@ -27,4 +27,4 @@ jobs:
           with:
             context: ./action-a
             push: true
-            tags: Yassermrc/hello-github-actions:latest
+            tags: yassermrc/hello-github-actions:latest
